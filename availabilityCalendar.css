@@ -31,4 +31,7 @@
 
 .ac-calendar-container .ac-next {background: transparent url(https://www.availabilitycalendar.com/css-example-1-right.png) no-repeat left top;}
 .ac-calendar-container .ac-next img {border:none;}
+.ac-calendar-container .ac-table td.ac-pad {
+    background-color: #333333 !important;
+}
     
