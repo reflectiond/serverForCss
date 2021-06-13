@@ -22,10 +22,5 @@
     
     .ac-calendar-container .ac-calendar-legend {background-color:#333333 !important; border:1px solid #000000 !important;}
     .ac-calendar-container .ac-calendar-legend p {color:#ffffff !important;}
-    
-    .ac-calendar-container .ac-prev {background: transparent url(https://www.availabilitycalendar.com/css-example-1-left.png) no-repeat left top;}
-    .ac-calendar-container .ac-prev img {border:none;}
-    
-    .ac-calendar-container .ac-next {background: transparent url(https://www.availabilitycalendar.com/css-example-1-right.png) no-repeat left top;}
-    .ac-calendar-container .ac-next img {border:none;}
+
     
