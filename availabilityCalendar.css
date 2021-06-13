@@ -18,7 +18,8 @@
         background-color: #333333 !important;
         border: 1px solid #000000 !important;
     }
-.ac-calendar-container .ac-table th.ac-heading span {color:#000000 !important;}
+.ac-calendar-container .ac-table th.ac-heading span {color:#ffffff !important;}
+.ac-calendar-container .ac-table th.ac-heading {background-color:#333333 !important;}
 .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container select {border:1px solid #000000 !important;}
 .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container span {color:#000000 !important;}
 .ac-calendar-container .ac-table .ac-weekdays td {color:#ffffff !important;}
