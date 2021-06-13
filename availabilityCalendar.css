@@ -1,22 +1,14 @@
-    .ac-calendar-container h1 {margin-bottom:20px !important;}
     .ac-calendar-container * {font-family:Georgia, "Times New Roman", Times, serif !important;}
-    .availability .ac-calendar-container .ac-table {background-color:#333333 !important; width:214px !important; height:252px !important; border:1px solid #000000 !important;} 
+    .availability .ac-calendar-container .ac-table {background-color:#333333 !important; border:1px solid #000000 !important;} 
     .ac-calendar-container .ac-table td.ac-pad {background-color:#333333 !important;} 
-    .ac-calendar-container .ac-table th.ac-heading {background-color:#333333 !important; width:208px !important;}
+    .ac-calendar-container .ac-table th.ac-heading {background-color:#333333 !important;}
     .ac-calendar-container .ac-table th.ac-heading span {color:#ffffff !important;}
-    .ac-calendar-container .ac-table th.ac-heading .ac-next {margin-left:-20px;}
-    .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container {width:158px !important;}
-    .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container select {width:158px !important; border:1px solid #000000 !important;}
-    .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container span {color:#000000 !important; width:158px !important; background-position:142px 7px !important;}
+    .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container select {border:1px solid #000000 !important;}
+    .ac-calendar-container .ac-table th.ac-heading .ac-dropdown-container span {color:#000000 !important;}
     .ac-dropdown-container .ac-dropdown {border:1px solid #000000 !important;}
     .ac-calendar-container .ac-table td.status-ac-grey-out-history {background-color:#858585 !important;}
-    .ac-calendar-container .ac-table tr {height:30px !important;}
-    
-    .ac-calendar-container .ac-table .ac-weekdays {width:214px !important; height:36px !important; line-height:36px !important;}
     .ac-calendar-container .ac-table .ac-weekdays td {color:#ffffff !important;}
-    
-    .ac-calendar-container table.ac-table td {width:28px !important; height:28px !important; line-height:28px !important;}
-    
+   
     .ac-day-split-top {border-width:28px 28px 0 0 !important;}
     .ac-day-split-bottom {border-width:0 0 28px 28px !important;}
     
