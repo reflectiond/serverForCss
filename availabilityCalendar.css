@@ -18,6 +18,12 @@
 .ac-calendar-container .ac-table td.ac-pad {
     background-color: #333333 !important;
 }
-.ac-calender-container .ac-calendar-legend-box div {background-color:#333333 !important; border: 0px !important;}
-.ac-calender-container .ac-calendar-legend-box .ac-legend-item span {color:#ffffff !important;}
+.ac-calendar-legend-box {
+    border:0px !important;
+    background-color:#333333;
+}
+.ac-calendar-legend-box span.ac-legend-item {
+    color:#ffffff !important;
+}
+
     
